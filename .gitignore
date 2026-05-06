@@ -1,0 +1,10 @@
+/vendor/
+/.env
+/storage/mail.log
+/storage/sessions/
+/storage/cache/
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

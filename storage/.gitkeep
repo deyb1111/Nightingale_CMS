@@ -1,0 +1,4 @@
+This folder is writeable by Apache. Used for:
+- mail.log    (when MAIL_LOG_ONLY=true)
+- sessions/   (if SESSION_HANDLER=files)
+- cache/      (future use)
