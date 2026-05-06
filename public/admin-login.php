@@ -1,4 +1,5 @@
 <?php
+// admin login page with 2FA prompt, separate from main login.php
 declare(strict_types=1);
 require __DIR__ . '/../vendor/autoload.php';
 
